@@ -1,0 +1,3 @@
+.form_text_input {
+    @apply input input-bordered dark:text-white w-full;
+}

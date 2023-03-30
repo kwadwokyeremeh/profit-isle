@@ -1,0 +1,15 @@
+.form {
+    @apply mb-4 w-full flex flex-col items-center;
+}
+
+.form_item {
+    @apply px-2 my-2 max-w-md w-full;
+}
+
+.form_action_container {
+    @apply flex items-center justify-end max-w-md w-full;
+}
+
+.form_btn {
+    @apply btn-primary;
+}
